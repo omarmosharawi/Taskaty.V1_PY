@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Taskaty
+Version: 0.1
+Summary: Simple CLI Task Manger
+Author: Omar Mohamed Sharawi
+Requires-Dist: tabulate
